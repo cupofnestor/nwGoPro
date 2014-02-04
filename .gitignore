@@ -1,2 +1,8 @@
 .DS_Store
 *.tmproj
+
+Resources/node_modules/gopro
+
+Resources/node_modules/wpmedia
+
+Resources/node_modules/wpmedia
