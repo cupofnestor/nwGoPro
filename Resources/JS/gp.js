@@ -11,7 +11,7 @@ var cam = new Camera('10.5.5.9', 'goprongl')
 with (cam){  //with changes the scope, all functions or props in the brackets are cam's
 	powerOn()
     mode = "photo";
-    beepOff();
+//    beepOff();
     photoResolution = "5mpm"
 }
 
